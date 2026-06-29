@@ -1,33 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.egg-info/
-dist/
-build/
-*.egg
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
 
-# Virtual environment
 venv/
 .env
-
-# Database
-*.sqlite3
-*.db
-
-# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
-.DS_Store
+venv\
+\venv
+.venv
 
-# Django
-*.log
-local_settings.py
-media/
