@@ -9,3 +9,4 @@ class CustomUser(AbstractUser):
     )
 
     role = models.CharField(max_length=200,choices=role_choices,default='kitapxanashi')
+
